@@ -1,1 +1,61 @@
-{"821404608":{"expenses":[{"category":"category_food","amount":150,"date":"2026-06-23"},{"category":"category_food","amount":150,"date":"2026-06-23"},{"category":"category_food","amount":150,"date":"2026-06-23"},{"category":"category_entertainment","amount":250,"date":"2026-06-23"},{"category":"category_food","amount":600,"date":"2026-06-23"}]}}
+{
+  "821404608": {
+    "expenses": [
+      {
+        "category": "category_food",
+        "amount": 150,
+        "date": "2026-06-23"
+      },
+      {
+        "category": "category_food",
+        "amount": 150,
+        "date": "2026-06-23"
+      },
+      {
+        "category": "category_food",
+        "amount": 150,
+        "date": "2026-06-23"
+      },
+      {
+        "category": "category_entertainment",
+        "amount": 250,
+        "date": "2026-06-23"
+      },
+      {
+        "category": "category_food",
+        "amount": 600,
+        "date": "2026-06-23"
+      },
+      {
+        "category": "category_food",
+        "amount": 200,
+        "date": "2026-06-29"
+      },
+      {
+        "category": "category_food",
+        "amount": 200,
+        "date": "2026-06-29"
+      },
+      {
+        "category": "category_food",
+        "name": "кава",
+        "amount": 150,
+        "date": "2026-06-29"
+      },
+      {
+        "id": 1782771578948,
+        "category": "other",
+        "amount": 70,
+        "note": "Хуйня",
+        "date": "2026-06-29"
+      },
+      {
+        "id": 1782771593500,
+        "category": "housing",
+        "amount": 2500,
+        "note": null,
+        "date": "2026-06-29"
+      }
+    ]
+  }
+}
